@@ -11,7 +11,7 @@ This repository was renamed from 'little_math_games' to 'sp-math-games' on 2026-
 
 ## Rollback
 
-- Backup ZIP: D:\OneDrive\Develop\GitHub\sp-repo-renamer\artifacts\little_math_games-to-sp-math-games-20260308-161119\little_math_games-to-sp-math-games-20260308-161119-backup.zip
+- Backup ZIP: D:\Develop\GitHub\sp-repo-renamer\artifacts\little_math_games-to-sp-math-games-20260308-161119\little_math_games-to-sp-math-games-20260308-161119-backup.zip
 - Safety tag: pre-repo-rename/little_math_games-to-sp-math-games-20260308-161119
 - Restore the ZIP into a separate folder or reset to the safety tag before pushing if you need a full rollback.
 
